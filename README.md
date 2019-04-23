@@ -2,7 +2,7 @@
 
 ## Prerequisites  
 * Java 8.x
-* Spring boot 1.4.x
+* MySQL 8.x
 * Maven 3.x
 ## Required Configurations  
 * Create following 'passport_request_store' Databases in MySQL and create table 'passport_request' using following attributes.
