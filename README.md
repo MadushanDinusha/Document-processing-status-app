@@ -1,4 +1,5 @@
 # Sample App - Document processing status app
+This is a sample application which is developed using idea-mart. The purpose of this application is to notify the user using sms with the latest status of their submissions.
 
 ## Prerequisites  
 * Java 8.x
