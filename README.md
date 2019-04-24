@@ -22,3 +22,15 @@ last_updated_date   DATE
   127.0.0.1       db.mysql.passport
   127.0.0.1       core.passport.service
 ```
+## Sample use-cases
+* Banks  
+Apply for your credit card and stay in touch with the process.  
+User submits the application for credit card -> Employee at the bank records the details -> User can obtain the status of the application via <reference Number>
+
+* Small scale restaurants  
+Place your order via mobile and track your order.  
+User places a purchase order via mobile-> Employee at the restaurant records the order -> User can obtain the status of the order via <reference Number>
+
+* Healthcare  
+Check whether your lab report is ready for collection.  
+User submits a blood sample-> Employee at the hospital laboratory records details -> User can obtain the status of the lab report via <reference Number>
